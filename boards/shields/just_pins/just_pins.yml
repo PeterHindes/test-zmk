@@ -1,0 +1,8 @@
+file_format: "1"
+id: just_pins
+name: Just Pins
+type: shield
+url: https://github.com/PeterHindes/test-zmk
+requires: [pro_micro]
+features:
+  - keys
