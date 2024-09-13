@@ -15,7 +15,6 @@
         default_layer {
             bindings = <
                 &out OUT_BLE
-                &bt BT_CLR_ALL
                 &kp Z
             >;
         };
